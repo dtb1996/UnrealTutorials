@@ -6,9 +6,6 @@
 #include "Blueprint/UserWidget.h"
 #include "PopupMenu.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class UNREALTUTORIALS_API UPopupMenu : public UUserWidget
 {
